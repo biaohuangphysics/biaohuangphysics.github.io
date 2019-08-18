@@ -8,7 +8,8 @@ padding:5px;
 }
 #nav {
 line-height:30px;
-background-color:#eeeeee;
+background-color:gray;
+text-color:white;
 height:300px;
 width:100px;
 float:left;
