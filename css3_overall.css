@@ -7,13 +7,15 @@ text-align:center;
 padding:5px;
 }
 #nav {
+font-family: Chalkboard;
+font-size:20px;
 line-height:30px;
-background-color:gray;
+background-color:black;
 text-color:white;
-height:300px;
-width:100px;
-float:left;
-padding:5px; 
+height:40px;
+width:800px;
+float:center;
+line-height:40px;
 }
 #section {
 width:800px;
