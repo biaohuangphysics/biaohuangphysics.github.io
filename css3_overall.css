@@ -4,7 +4,7 @@ width:800px;
 background-color:black;
 color:white;
 text-align:center;
-padding:5px;
+padding-left:5px;
 }
 #nav {
 font-family: Chalkboard;
@@ -20,13 +20,25 @@ line-height:40px;
 #section {
 width:800px;
 float:center;
-padding:20px; 
+padding-left:20px;
 }
 #footer {
+width:800px;
 background-color:black;
 color:white;
 clear:both;
 text-align:center;
 padding:5px; 
+}
+#main{
+text-align: left;
+background-color: #272930;
+border-radius: 20px;
+width: 850px;
+height: 1400px;
+position: absolute;
+left: 50%;
+top: 110%;
+transform: translate(-50%,-50%);
 }
 </style>
